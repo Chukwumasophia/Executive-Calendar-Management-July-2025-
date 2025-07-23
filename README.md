@@ -74,8 +74,17 @@ Revenue update and product pipeline overview
 - Google Meet (for virtual calls)
 - Gmail & Tasks (for notifications and reminders
 
+# Month
+<img width="2554" height="1170" alt="Screenshot 2025-07-23 152542" src="https://github.com/user-attachments/assets/733c0531-db45-4cab-b578-bbc2c1065971" />
+
+# Week
+<img width="2551" height="1159" alt="Screenshot 2025-07-23 160517" src="https://github.com/user-attachments/assets/8af14e13-569d-49d7-adbd-8704cb7ead3c" />
+
+# Day
+<img width="2551" height="1149" alt="Screenshot 2025-07-23 160436" src="https://github.com/user-attachments/assets/29f56c33-2202-4375-a3a0-cc8f113fd61f" />
+
 ## Conclusion
-This calendar demonstrates my ability to manage time and events efficiently as a Virtual Assistant. It reflects attention to detail, planning discipline, and strong organizational skills — all essential for supporting busy professionals or business owners remotely.
+This calendar demonstrates my ability to manage time and events efficiently as a Virtual Assistant. It reflects attention to detail, planning discipline, and strong organizational skills  all essential for supporting busy professionals or business owners remotely.
 
 
   
